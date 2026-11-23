@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "com.local.tianmifull",
+    "restype": "quick_app",
+    "name": "甜蜜女友完整版",
+    "description": "移植自《甜蜜女友》的胶囊屏快应用，适配小米手环 9、小米手环 11 等主流胶囊屏设备。保留原作的风格与核心界面，针对手环屏幕做了可读性与操作适配，支持系统返回手势，装完即用。免费分享，欢迎试用反馈。",
+    "preview": [
+      "media/mmexport1795437222278.png",
+      "media/mmexport1795437228787.png",
+      "media/IMG_20261123_204134.jpg"
+    ],
+    "icon": "media/IMG_20261123_203511_edit_75754590465002.jpg",
+    "cover": "media/IMG_20261123_203838.jpg",
+    "author": [
+      {
+        "name": "jason020317",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "2.9.3",
+      "file_name": "downloads/甜蜜女友.rpk",
+      "versionCode": 20903
+    },
+    "xmb11nfc": {
+      "version": "2.9.3",
+      "file_name": "downloads/甜蜜女友.rpk",
+      "versionCode": 20903
+    },
+    "xmb9": {
+      "version": "2.9.3",
+      "file_name": "downloads/甜蜜女友.rpk",
+      "versionCode": 20903
+    },
+    "xmb11": {
+      "version": "2.9.3",
+      "file_name": "downloads/甜蜜女友.rpk",
+      "versionCode": 20903
+    },
+    "xmb10": {
+      "version": "2.9.3",
+      "file_name": "downloads/甜蜜女友.rpk",
+      "versionCode": 20903
+    }
+  },
+  "ext": {}
+}
